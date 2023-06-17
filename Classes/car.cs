@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace Classes
 {
-    public  class car
+    public  class Car
     { 
-        public car() 
+        public Car() 
         { 
 
         }
 
-        public car (string makeInput,string modelInput,int yearInput)
+        public Car (string MakeInput,string ModelInput,int YearInput)
         {
-          Make=makeInput;
-          Model=modelInput;
+          Make=MakeInput;
+          Model=ModelInput;
             Year = Year;
         }
             
